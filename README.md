@@ -4,3 +4,7 @@
 
 Inspector 주제로 진행합니다.
 
+## Inspectors + CRUD
+
+하나의 테이블과 모델 클래스를 바탕으로 CRUD를 구현해 봅니다.
+
